@@ -1,3 +1,3 @@
-raju,blackheads,blackheads,blackheads,blackheads,blackheads,Acne
-,Acne
-,Acne
+cxx,congestion,depression,coma,dizziness,excessive_hunger,Cervical spondylosis
+, Migraine
+, Migraine
